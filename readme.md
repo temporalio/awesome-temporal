@@ -4,13 +4,14 @@
 
 > A curated list of awesome Temporal libraries and resources.
 
-Temporal is a [durable execution system](https://temporal.io/blog/building-reliable-distributed-systems-in-node). It makes code fault tolerant and simple.
+Temporal is a [durable execution system](https://temporal.io/blog/building-reliable-distributed-systems-in-node). It makes code fault-tolerant and simple.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
 
 - [Related awesome lists](#related-awesome-lists)
+- [Communities](#communities)
 - [Libraries](#libraries)
 - [Go](#go)
   - [Samples](#samples)
@@ -35,7 +36,6 @@ Temporal is a [durable execution system](https://temporal.io/blog/building-relia
   - [Samples](#samples-6)
   - [Libraries](#libraries-6)
 - [Clojure](#clojure)
-- [Communities](#communities)
 - [Credits](#credits)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -60,6 +60,13 @@ Temporal is a [durable execution system](https://temporal.io/blog/building-relia
   - [Cassandra](https://github.com/Anant/awesome-cassandra#readme)
   - [Postgres](https://github.com/dhamaniasad/awesome-postgres#readme)
   - [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme)
+
+## Communities
+
+- [Slack](https://t.mp/slack)
+- [Forum](https://community.temporal.io/)
+- [r/Temporal](https://www.reddit.com/r/Temporal/)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/temporal-workflow+or+temporal-typescript)
 
 ## Libraries
 
@@ -154,17 +161,11 @@ Temporal is a [durable execution system](https://temporal.io/blog/building-relia
 
 - [Clojure SDK](https://github.com/manetu/temporal-clojure-sdk)
 
-## Communities
-
-- [Slack](https://t.mp/slack)
-- [Forum](https://community.temporal.io/)
-- [r/Temporal](https://www.reddit.com/r/Temporal/)
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/temporal-workflow+or+temporal-typescript)
-
 ## Credits
 
 We welcome contributions! See [`contributing.md`](contributing.md).
 
-🙏 Thank you to [all those who've contributed](https://github.com/temporalio/awesome-temporal/graphs/contributors).
+🙏 Thank you to: 
 
-Prior art: [`firdaus/awesome-cadence-temporal-workflow`](https://github.com/firdaus/awesome-cadence-temporal-workflow).
+- [All those who have contributed](https://github.com/temporalio/awesome-temporal/graphs/contributors)
+- @firdaus for [`firdaus/awesome-cadence-temporal-workflow`](https://github.com/firdaus/awesome-cadence-temporal-workflow)

@@ -168,4 +168,4 @@ We welcome contributions! See [`contributing.md`](contributing.md).
 🙏 Thank you to: 
 
 - [All those who have contributed](https://github.com/temporalio/awesome-temporal/graphs/contributors)
-- @firdaus for [`firdaus/awesome-cadence-temporal-workflow`](https://github.com/firdaus/awesome-cadence-temporal-workflow)
+- [`firdaus`](https://github.com/firdaus) for [`firdaus/awesome-cadence-temporal-workflow`](https://github.com/firdaus/awesome-cadence-temporal-workflow)

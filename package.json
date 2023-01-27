@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "description": "A curated list of awesome Temporal libraries and resources.",
   "scripts": {
-    "lint": "awesome-lint"
+    "lint": "awesome-lint",
+    "update-toc": "doctoc --github --maxlevel 3 readme.md"
   },
   "repository": "temporalio/awesome-temporal",
   "keywords": [
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/temporalio/awesome-temporal#readme",
   "devDependencies": {
-    "awesome-lint": "^0.18.1"
+    "awesome-lint": "^0.18.1",
+    "doctoc": "^2.2.1"
   }
 }

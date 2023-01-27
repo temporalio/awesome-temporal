@@ -1,16 +1,56 @@
 # Awesome Temporal [![Awesome list badge](https://awesome.re/badge.svg)](https://awesome.re)
 
+[<img src="temporal.png" align="right" width="200">](https://temporal.io/)
+
 > A curated list of awesome Temporal libraries and resources.
 
-https://github.com/sindresorhus/awesome
+Temporal is a [durable execution system](https://temporal.io/blog/building-reliable-distributed-systems-in-node). It makes code fault tolerant and simple.
 
-## Awesome lists
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Contents
+
+- [Related awesome lists](#related-awesome-lists)
+- [Libraries](#libraries)
+- [Go](#go)
+  - [Samples](#samples)
+  - [Libraries](#libraries-1)
+  - [Templates](#templates)
+- [TypeScript](#typescript)
+  - [Samples](#samples-1)
+  - [Libraries](#libraries-2)
+  - [Templates](#templates-1)
+- [Java](#java)
+  - [Samples](#samples-2)
+  - [Libraries](#libraries-3)
+- [Python](#python)
+  - [Samples](#samples-3)
+  - [Libraries](#libraries-4)
+- [.NET](#net)
+  - [Samples](#samples-4)
+  - [Libraries](#libraries-5)
+- [PHP](#php)
+  - [Samples](#samples-5)
+- [Ruby](#ruby)
+  - [Samples](#samples-6)
+  - [Libraries](#libraries-6)
+- [Clojure](#clojure)
+- [Communities](#communities)
+- [Credits](#credits)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Related awesome lists
 
 - [All lists](https://github.com/sindresorhus/awesome)
+- [Software architecture](https://github.com/simskij/awesome-software-architecture#readme)
+- [Microservices](https://github.com/mfornos/awesome-microservices#readme)
+- [Queues](https://github.com/tonyhb/awesome-queues-jobs-and-tasks/)
 - Languages we have SDKs in:
   - [Go](https://github.com/avelino/awesome-go#readme)
   - [Java](https://github.com/akullpp/awesome-java#readme)
-  - [JavaScript](https://github.com/sorrycc/awesome-javascript#readme) and [Node](https://github.com/sindresorhus/awesome-nodejs#readme)
+  - [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
+  - [Node](https://github.com/sindresorhus/awesome-nodejs#readme)
   - [Python](https://github.com/vinta/awesome-python#readme)
   - [PHP](https://github.com/ziadoz/awesome-php#readme)
   - [.NET](https://github.com/quozd/awesome-dotnet#readme)
@@ -20,28 +60,111 @@ https://github.com/sindresorhus/awesome
   - [Cassandra](https://github.com/Anant/awesome-cassandra#readme)
   - [Postgres](https://github.com/dhamaniasad/awesome-postgres#readme)
   - [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme)
-- Related:
-  - [Software architecture](https://github.com/simskij/awesome-software-architecture#readme)
-  - [Microservices](https://github.com/mfornos/awesome-microservices#readme)
-  - [Queues](https://github.com/tonyhb/awesome-queues-jobs-and-tasks/)
 
-## Section
+## Libraries
 
-About this section. Optional. Keep this short and focus on the list.
+- [iWF](https://github.com/indeedeng/iwf) - DSL workflow framework.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Go
 
-### Subsection
+- [Go SDK](https://github.com/temporalio/sdk-go)
+- [Go SDK docs](https://t.mp/go)
+- [Go SDK API reference](https://t.mp/go-api)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### Samples
 
+- [`temporalio/samples-go`](https://github.com/temporalio/samples-go)
+- [Benthos PoC](https://github.com/disintegrator/benthos-temporal-poc) - Start a workflow from a Benthos message.
 
-## Contribute
+### Libraries
 
-We welcome contributions! See [`contributing.md`](contributing.md).
+- [`Courtsite/temporal-go-helpers`](https://github.com/Courtsite/temporal-go-helpers) - Collection of helpers: saga, receive Signal with timeout, drain channel.
+
+### Templates
+
+## TypeScript
+
+- [TypeScript SDK](https://github.com/temporalio/sdk-typescript)
+- [TypeScript SDK docs](https://t.mp/ts)
+- [TypeScript SDK API reference](https://t.mp/ts-api)
+
+### Samples
+
+- [`temporalio/samples-typescript`](https://github.com/temporalio/samples-typescript)
+
+### Libraries
+
+- [`lorensr/temporal-time-utils`](https://github.com/lorensr/temporal-time-utils) - `sleepUntil` and `UpdatableTimer`.
+
+### Templates
+
+- [Cognosis AI Platform](https://github.com/cognosisai/platform) - Build LLM applications.
+
+## Java
+
+- [Java SDK](https://github.com/temporalio/sdk-java)
+- [Java SDK](https://t.mp/java)
+- [Java SDK API reference](https://t.mp/java-api)
+
+### Samples
+
+- [`temporalio/samples-java`](https://github.com/temporalio/samples-java)
+
+### Libraries
+
+## Python
+
+- [Python SDK](https://github.com/temporalio/sdk-python)
+- [Python SDK docs](https://t.mp/py)
+- [Python SDK API reference](https://t.mp/py-api)
+
+### Samples
+
+- [`temporalio/samples-python`](https://github.com/temporalio/samples-python)
+
+### Libraries
+
+## .NET
+
+- [.NET SDK](https://github.com/temporalio/sdk-dotnet)
+- [.NET SDK docs](https://dotnet.temporal.io/)
+
+### Samples
+
+### Libraries
+
+## PHP
+
+- [PHP SDK](https://github.com/temporalio/sdk-php)
+- [PHP SDK docs](https://t.mp/php)
+
+### Samples
+
+- [`temporalio/samples-php`](https://github.com/temporalio/samples-php)
+
+## Ruby
+
+- [Ruby SDK](https://github.com/temporalio/sdk-ruby)
+
+### Samples
+
+### Libraries
+
+## Clojure
+
+- [Clojure SDK](https://github.com/manetu/temporal-clojure-sdk)
+
+## Communities
+
+- [Slack](https://t.mp/slack)
+- [Forum](https://community.temporal.io/)
+- [r/Temporal](https://www.reddit.com/r/Temporal/)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/temporal-workflow+or+temporal-typescript)
 
 ## Credits
 
-🙏 Thank you to [all those who've contributed](https://github.com/lorensr/segmented-control/graphs/contributors).
+We welcome contributions! See [`contributing.md`](contributing.md).
+
+🙏 Thank you to [all those who've contributed](https://github.com/temporalio/awesome-temporal/graphs/contributors).
+
+Prior art: [`firdaus/awesome-cadence-temporal-workflow`](https://github.com/firdaus/awesome-cadence-temporal-workflow).

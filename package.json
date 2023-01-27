@@ -1,0 +1,22 @@
+{
+  "name": "awesome-temporal",
+  "version": "0.1.0",
+  "description": "A curated list of awesome Temporal libraries and resources.",
+  "scripts": {
+    "lint": "awesome-lint"
+  },
+  "repository": "temporalio/awesome-temporal",
+  "keywords": [
+    "awesome",
+    "temporal"
+  ],
+  "author": "Loren Sands-Ramshaw",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/temporalio/awesome-temporal/issues"
+  },
+  "homepage": "https://github.com/temporalio/awesome-temporal#readme",
+  "devDependencies": {
+    "awesome-lint": "^0.18.1"
+  }
+}

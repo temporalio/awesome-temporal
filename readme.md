@@ -4,7 +4,7 @@
 
 > A curated list of awesome Temporal libraries and resources.
 
-Temporal is a [durable execution system](https://temporal.io/blog/building-reliable-distributed-systems-in-node). It makes code fault-tolerant and simple.
+Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It makes code fault-tolerant and simple.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -104,16 +104,16 @@ Temporal is a [durable execution system](https://temporal.io/blog/building-relia
 
 - [Replay Keynote](https://www.youtube.com/watch?v=W0Ygep6iCJY) - Durable execution, Nexus, and Cloud.
 - [Glovo: Fault tolerant distributed microservices with Temporal](https://youtu.be/6lSuDRRFgyY)
-- [TheDevConf: Fault Tolerant, Distributed Microservices Orchestration with Temporal](https://www.youtube.com/watch?v=6T6zVZHU7_Q) - Introduction to Temporal ([slides](https://temporal-intro-and-demo.netlify.app/)).
+- [TheDevConf: Fault Tolerant, Distributed Microservices Orchestration with Temporal](https://www.youtube.com/watch?v=6T6zVZHU7_Q) - The problem Temporal solves and how it works ([slides](https://temporal-intro-and-demo.netlify.app/)).
 - [State of Affairs or Affairs of State](https://www.youtube.com/watch?v=2P_aXee2qh4) - Stateless vs stateful architecture and why Temporal.
-- [Designing a Workflow Engine from First Principles](https://temporal.io/blog/workflow-engine-principles/) - The internal system design of Temporal Server.
+- [Designing a Workflow Engine from First Principles](https://temporal.io/blog/workflow-engine-principles/) - The internal system design of Temporal Server and how it solves consistency and scaling issues with workflow engines.
+- [Sidekiq, Outbox, SAGAs and Best Practices for Distributed Transactions!](https://www.youtube.com/watch?v=Rr4DnHmy6eE)
 
 ### Using Temporal
 
 - [A Guided Tour of Temporal’s New Web UI](https://www.youtube.com/watch?v=iCT4mml8mdM)
 - [Time Travel Tests! Testing Async Workflows, Signals, and Queries with Temporal](https://www.youtube.com/watch?v=-GKxFDQSlEU)
 - [Temporal Service and Application Architecture](https://youtu.be/r5bnp5bQHI4)
-- [Sidekiq, Outbox, SAGAs and Best Practices for Distributed Transactions!](https://www.youtube.com/watch?v=Rr4DnHmy6eE)
 - [How to get workflow failure info using Temporal SDKs](https://www.youtube.com/watch?v=0QuWgqwmr-s)
 - [Keeping Workflow Developers Afloat](https://www.youtube.com/watch?v=yeoawVIn060)
 - [Temporal @ Datadog](https://www.youtube.com/watch?v=LxgkAoTSI8Q)
@@ -197,14 +197,14 @@ Temporal is a [durable execution system](https://temporal.io/blog/building-relia
 ### Libraries
 
 - [`lorensr/temporal-time-utils`](https://github.com/lorensr/temporal-time-utils) - `sleepUntil` and `UpdatableTimer`.
-- [Cognosis AI Platform](https://github.com/cognosisai/platform) - Template for LLM applications.
+- [Cognosis AI Platform](https://github.com/cognosisai/platform) - Template for large language model applications.
 
 ### Tutorials
 
 - [Getting started](https://learn.temporal.io/getting_started/typescript/dev_environment/)
 - [Next.js](https://learn.temporal.io/tutorials/typescript/nextjs/)
-- [Subscription](https://learn.temporal.io/tutorials/typescript/subscriptions/)
-- [Slack bot](https://learn.temporal.io/tutorials/typescript/chatbot/)
+- [Subscriptions](https://learn.temporal.io/tutorials/typescript/subscriptions/) - Write a Workflow that models a user's subscription, periodically charging them for your service.
+- [Create a Slack bot](https://learn.temporal.io/tutorials/typescript/chatbot/)
 
 ### Blog posts
 
@@ -297,8 +297,8 @@ Temporal is a [durable execution system](https://temporal.io/blog/building-relia
 ### Tutorials
 
 - [Getting started](https://learn.temporal.io/getting_started/php/dev_environment/)
-- [Saga](https://learn.temporal.io/tutorials/php/booking_saga/)
-- [Subscription](https://learn.temporal.io/tutorials/php/subscriptions/)
+- [Saga](https://learn.temporal.io/tutorials/php/booking_saga/) - Write a saga Workflow.
+- [Subscriptions](https://learn.temporal.io/tutorials/php/subscriptions/) - Write a Workflow that models a user's subscription, periodically charging them for your service.
 
 ### Blog posts
 

@@ -96,6 +96,7 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 
 ## Libraries
 
+- [`alexandrevilain/temporal-operator`](https://github.com/alexandrevilain/temporal-operator) - The Kubernetes operator to deploy and manage Temporal Clusters.
 - [iWF](https://github.com/indeedeng/iwf) - DSL workflow framework.
 
 ## Videos

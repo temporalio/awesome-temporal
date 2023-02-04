@@ -122,7 +122,7 @@ Temporal is a [durable execution system](https://temporal.io/blog/building-relia
 
 ## Podcasts
 
-- [Flagsmith](https://flagsmith.com/podcast/temporal-w-co-founder-and-ceo-maxim-fateev-and-head-of-product-ryland-goldstein/) - Maxim & Ryland explain about Temporal and answer questions (50 min, Jun 19, 2022).
+- [Flagsmith](https://flagsmith.com/podcast/temporal-w-co-founder-and-ceo-maxim-fateev-and-head-of-product-ryland-goldstein/) - Maxim & Ryland explain Temporal and answer questions (50 min, Jun 19, 2022).
 - [Stack Overflow Podcast: Run your microservices in no-fail mode](https://twitter.com/StackOverflow/status/1536740460789739520) - Maxim & Dominik explain Temporal (22 min, Jun 14, 2022).
 - [Serverless Chats Podcast: Self-Provisioning Runtimes](https://www.serverlesschats.com/124/) - swyx presents Temporal as a self-provisioning runtime (1h, Feb 14, 2022).
 - [Break Things on Purpose (Gremlin): Origin story, Choreography vs Orchestration, and Tips](https://temporal.io/blog/gremlin-podcast) - Maxim & Samar share the Temporal origin story (21 min, Oct 5, 2021).
@@ -213,7 +213,7 @@ Temporal is a [durable execution system](https://temporal.io/blog/building-relia
 - [Using Temporal as a Node.js Task Queue](https://temporal.io/blog/using-temporal-as-a-node-task-queue)
 - [Caching API Requests with Long-Lived Workflows](https://temporal.io/blog/caching-api-requests-with-long-lived-workflows)
 - [Express middleware that creates a REST API for your Workflows](https://temporal.io/blog/temporal-rest)
-- [1.0.0 release of the TS SDK](https://temporal.io/blog/typescript-1-0-0)
+- [1.0.0 release of the Temporal TypeScript SDK](https://temporal.io/blog/typescript-1-0-0)
 - [How we use V8 isolates to enforce Workflow determinism](https://temporal.io/blog/intro-to-isolated-vm)
 
 ### Videos

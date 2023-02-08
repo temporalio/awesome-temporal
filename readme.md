@@ -12,7 +12,8 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 
 - [Related awesome lists](#related-awesome-lists)
 - [Communities](#communities)
-- [Libraries](#libraries)
+- [DSL & Abstractions](#dsl-abstractions)
+- [Cluster Management](#cluster-management)
 - [Videos](#videos)
   - [Why Temporal](#why-temporal)
   - [Using Temporal](#using-temporal)
@@ -94,10 +95,11 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 - [r/Temporal](https://www.reddit.com/r/Temporal/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/temporal-workflow+or+temporal-typescript)
 
-## Libraries
-
-- [`alexandrevilain/temporal-operator`](https://github.com/alexandrevilain/temporal-operator) - The Kubernetes operator to deploy and manage Temporal Clusters.
+## DSL & Abstractions
 - [iWF](https://github.com/indeedeng/iwf) - DSL workflow framework.
+
+## Cluster Management
+- [`alexandrevilain/temporal-operator`](https://github.com/alexandrevilain/temporal-operator) - The Kubernetes operator to deploy and manage Temporal Clusters.
 
 ## Videos
 

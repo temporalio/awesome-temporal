@@ -105,6 +105,10 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 
 - [iWF](https://github.com/indeedeng/iwf) - DSL workflow framework built on Temporal.
 
+## Courses
+
+- [Temporal 101](https://learn.temporal.io/courses/temporal_101)
+
 ## Videos
 
 ### Why Temporal
@@ -167,6 +171,7 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 ### Samples
 
 - [`temporalio/samples-go`](https://github.com/temporalio/samples-go)
+- [Background Check app](https://learn.temporal.io/examples/go/background-checks/)
 - [Benthos PoC](https://github.com/disintegrator/benthos-temporal-poc) - Start a workflow from a Benthos message.
 
 ### Libraries
@@ -176,9 +181,7 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 ### Tutorials
 
 - [Getting started](https://learn.temporal.io/getting_started/go/dev_environment/)
-- [Temporal 101](https://learn.temporal.io/courses/temporal_101)
 - [eCommerce app](https://learn.temporal.io/tutorials/go/ecommerce/)
-- [Background Check app](https://learn.temporal.io/examples/go/background-checks/)
 
 ### Blog posts
 

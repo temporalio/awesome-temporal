@@ -14,6 +14,7 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 - [Communities](#communities)
 - [Tools](#tools)
 - [Frameworks](#frameworks)
+- [Courses](#courses)
 - [Videos](#videos)
   - [Why Temporal](#why-temporal)
   - [Using Temporal](#using-temporal)

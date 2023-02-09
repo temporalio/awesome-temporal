@@ -70,6 +70,7 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 ## Related awesome lists
 
 - [All lists](https://github.com/sindresorhus/awesome)
+- [Distributed systems](https://github.com/madd86/awesome-system-design)
 - [Software architecture](https://github.com/simskij/awesome-software-architecture#readme)
 - [Microservices](https://github.com/mfornos/awesome-microservices#readme)
 - [Queues](https://github.com/tonyhb/awesome-queues-jobs-and-tasks/)
@@ -97,6 +98,7 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 
 ## Tools
 
+- [Airplane](https://www.airplane.dev/) - Build internal UIs and workflows with their [workflow runtime](https://docs.airplane.dev/tasks/runtimes).
 - [`alexandrevilain/temporal-operator`](https://github.com/alexandrevilain/temporal-operator) - Kubernetes operator to deploy and manage Temporal Clusters.
 
 ## Frameworks

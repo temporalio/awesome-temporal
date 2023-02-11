@@ -2,7 +2,7 @@
 
 [<img src="temporal.png" align="right" width="200">](https://temporal.io/)
 
-> A curated list of awesome Temporal libraries and resources.
+> A curated list of awesome Temporal libraries and resources, from both Temporal Technologies and the community. Community links are not officially endorsed, affiliated or maintained by Temporal Technologies Inc. Pull requests welcome!
 
 Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It makes code fault-tolerant and simple.
 

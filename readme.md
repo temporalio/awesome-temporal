@@ -2,7 +2,7 @@
 
 [<img src="temporal.png" align="right" width="200">](https://temporal.io/)
 
-> A curated list of awesome Temporal libraries and resources, from both Temporal Technologies and the community. Community links are not officially endorsed, affiliated or maintained by Temporal Technologies Inc. Pull requests welcome!
+> A curated list of awesome Temporal libraries and resources, from both Temporal Technologies and the community. Community links are not endorsed, affiliated, or maintained by Temporal Technologies Inc. Pull requests welcome!
 
 Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It makes code fault-tolerant and simple.
 
@@ -97,14 +97,25 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 - [r/Temporal](https://www.reddit.com/r/Temporal/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/temporal-workflow+or+temporal-typescript)
 
+## Libraries
+
+- [`tsurdilo/swtemporal`](https://github.com/tsurdilo/swtemporal) - Use the [Serverless Workflow DSL](https://serverlessworkflow.io/).
+
 ## Tools
 
-- [Airplane](https://www.airplane.dev/) - Build internal UIs and workflows with their [workflow runtime](https://docs.airplane.dev/tasks/runtimes).
 - [`alexandrevilain/temporal-operator`](https://github.com/alexandrevilain/temporal-operator) - Kubernetes operator to deploy and manage Temporal Clusters.
 
 ## Frameworks
 
+- [Airplane](https://www.airplane.dev/) - Build internal UIs and workflows with their [workflow runtime](https://docs.airplane.dev/tasks/runtimes).
 - [iWF](https://github.com/indeedeng/iwf) - DSL workflow framework built on Temporal.
+
+## Samples
+
+Multi-language or language-agnostic samples. For samples in a specific lang, see the Samples subsection of that lang below.
+
+- [`temporalio/temporal-pendulum`](https://github.com/temporalio/temporal-pendulum) - Switch between equivalent Workflows written in Go, Java, TS, and PHP.
+- [`temporalio/temporal-polyglot`](https://github.com/temporalio/temporal-polyglot) - Workflows in one lang signaling Workflows or starting Activities written in other langs.
 
 ## Courses
 
@@ -243,6 +254,7 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 ### Samples
 
 - [`temporalio/samples-java`](https://github.com/temporalio/samples-java)
+- [`tsurdilo/temporal-springboot-demo`](https://github.com/tsurdilo/temporal-springboot-demo) - Spring Boot integration.
 
 ### Libraries
 

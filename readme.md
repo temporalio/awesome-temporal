@@ -112,7 +112,7 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 
 ## Samples
 
-Multi-language or language-agnostic samples. For samples in a specific lang, see the Samples subsection of that lang below.
+Multi-language or language-agnostic samples. (For samples in a specific lang, see the Samples subsection of the lang's section.)
 
 - [`temporalio/temporal-pendulum`](https://github.com/temporalio/temporal-pendulum) - Switch between equivalent Workflows written in Go, Java, TS, and PHP.
 - [`temporalio/temporal-polyglot`](https://github.com/temporalio/temporal-polyglot) - Workflows in one lang signaling Workflows or starting Activities written in other langs.

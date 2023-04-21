@@ -189,6 +189,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 ### Libraries
 
 - [`Courtsite/temporal-go-helpers`](https://github.com/Courtsite/temporal-go-helpers) - Collection of helpers: saga, receive Signal with timeout, drain channel.
+- [`zboralski/codecserver`](https://github.com/zboralski/codecserver) - Data Converter and Codec Server that uses Transit Secrets Engine from HashiCorp Vault.
 
 ### Tutorials
 

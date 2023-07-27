@@ -66,6 +66,7 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
   - [Tutorials](#tutorials-6)
   - [Blog posts](#blog-posts-7)
 - [Clojure](#clojure)
+- [Built with Temporal](#built-with-temporal)
 - [Credits](#credits)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -348,6 +349,10 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 ## Clojure
 
 - [Clojure SDK](https://github.com/manetu/temporal-clojure-sdk)
+
+## Built with Temporal
+
+- [PeerDB data synchronization](https://blog.peerdb.io/using-temporal-to-scale-data-synchronization-at-peerdb)
 
 ## Credits
 

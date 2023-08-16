@@ -10,65 +10,64 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
 
-- [Awesome Temporal ](#awesome-temporal-)
-  - [Contents](#contents)
-  - [Related awesome lists](#related-awesome-lists)
-  - [Communities](#communities)
-  - [Libraries](#libraries)
-  - [Tools](#tools)
-  - [Frameworks](#frameworks)
-  - [Samples](#samples)
-  - [Courses](#courses)
-  - [Videos](#videos)
-    - [Why Temporal](#why-temporal)
-    - [Using Temporal](#using-temporal)
-  - [Podcasts](#podcasts)
-  - [Blog posts](#blog-posts)
-    - [Why Temporal](#why-temporal-1)
-    - [Using Temporal](#using-temporal-1)
-  - [Go](#go)
-    - [Samples](#samples-1)
-    - [Libraries](#libraries-1)
-    - [Tutorials](#tutorials)
-    - [Blog posts](#blog-posts-1)
-    - [Videos](#videos-1)
-  - [TypeScript](#typescript)
-    - [Samples](#samples-2)
-    - [Libraries](#libraries-2)
-    - [Tutorials](#tutorials-1)
-    - [Blog posts](#blog-posts-2)
-    - [Videos](#videos-2)
-  - [Java](#java)
-    - [Samples](#samples-3)
-    - [Libraries](#libraries-3)
-    - [Tutorials](#tutorials-2)
-    - [Blog posts](#blog-posts-3)
-    - [Videos](#videos-3)
-  - [Python](#python)
-    - [Samples](#samples-4)
-    - [Libraries](#libraries-4)
-    - [Tutorials](#tutorials-3)
-    - [Blog posts](#blog-posts-4)
-    - [Videos](#videos-4)
-  - [.NET](#net)
-    - [Samples](#samples-5)
-    - [Libraries](#libraries-5)
-    - [Tutorials](#tutorials-4)
-    - [Blog posts](#blog-posts-5)
-    - [Videos](#videos-5)
-  - [PHP](#php)
-    - [Samples](#samples-6)
-    - [Libraries](#libraries-6)
-    - [Tutorials](#tutorials-5)
-    - [Blog posts](#blog-posts-6)
-    - [Videos](#videos-6)
-  - [Ruby](#ruby)
-    - [Samples](#samples-7)
-    - [Libraries](#libraries-7)
-    - [Tutorials](#tutorials-6)
-    - [Blog posts](#blog-posts-7)
-  - [Clojure](#clojure)
-  - [Credits](#credits)
+- [Related awesome lists](#related-awesome-lists)
+- [Communities](#communities)
+- [Libraries](#libraries)
+- [Tools](#tools)
+- [Frameworks](#frameworks)
+- [Samples](#samples)
+- [Courses](#courses)
+- [Videos](#videos)
+  - [Why Temporal](#why-temporal)
+  - [Using Temporal](#using-temporal)
+- [Podcasts](#podcasts)
+- [Blog posts](#blog-posts)
+  - [Why Temporal](#why-temporal-1)
+  - [Using Temporal](#using-temporal-1)
+- [Go](#go)
+  - [Samples](#samples-1)
+  - [Libraries](#libraries-1)
+  - [Tutorials](#tutorials)
+  - [Blog posts](#blog-posts-1)
+  - [Videos](#videos-1)
+- [TypeScript](#typescript)
+  - [Samples](#samples-2)
+  - [Libraries](#libraries-2)
+  - [Tutorials](#tutorials-1)
+  - [Blog posts](#blog-posts-2)
+  - [Videos](#videos-2)
+- [Java](#java)
+  - [Samples](#samples-3)
+  - [Libraries](#libraries-3)
+  - [Tutorials](#tutorials-2)
+  - [Blog posts](#blog-posts-3)
+  - [Videos](#videos-3)
+- [Python](#python)
+  - [Samples](#samples-4)
+  - [Libraries](#libraries-4)
+  - [Tutorials](#tutorials-3)
+  - [Blog posts](#blog-posts-4)
+  - [Videos](#videos-4)
+- [.NET](#net)
+  - [Samples](#samples-5)
+  - [Libraries](#libraries-5)
+  - [Tutorials](#tutorials-4)
+  - [Blog posts](#blog-posts-5)
+  - [Videos](#videos-5)
+- [PHP](#php)
+  - [Samples](#samples-6)
+  - [Libraries](#libraries-6)
+  - [Tutorials](#tutorials-5)
+  - [Blog posts](#blog-posts-6)
+  - [Videos](#videos-6)
+- [Ruby](#ruby)
+  - [Samples](#samples-7)
+  - [Libraries](#libraries-7)
+  - [Tutorials](#tutorials-6)
+  - [Blog posts](#blog-posts-7)
+- [Clojure](#clojure)
+- [Built with Temporal](#built-with-temporal)
+- [Credits](#credits)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -108,6 +107,7 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 ## Tools
 
 - [`alexandrevilain/temporal-operator`](https://github.com/alexandrevilain/temporal-operator) - Kubernetes operator to deploy and manage Temporal Clusters.
+- [`rross/temporal-cloud-run`](https://github.com/rross/temporal-cloud-run) - Pulumi scripts for deploying Workers to Google Cloud Run
 - [`northpowered/temporal-rest-executor`](https://github.com/northpowered/temporal-rest-executor) - Simple REST server (with Swagger UI) to execute any activity/workflow in Temporal namespace. Useful for development and I&T.
 
 ## Frameworks
@@ -194,6 +194,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 ### Libraries
 
 - [`Courtsite/temporal-go-helpers`](https://github.com/Courtsite/temporal-go-helpers) - Collection of helpers: saga, receive Signal with timeout, drain channel.
+- [`zboralski/codecserver`](https://github.com/zboralski/codecserver) - Data Converter and Codec Server that uses Transit Secrets Engine from HashiCorp Vault.
 
 ### Tutorials
 
@@ -350,6 +351,10 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 ## Clojure
 
 - [Clojure SDK](https://github.com/manetu/temporal-clojure-sdk)
+
+## Built with Temporal
+
+- [PeerDB data synchronization](https://blog.peerdb.io/using-temporal-to-scale-data-synchronization-at-peerdb)
 
 ## Credits
 

@@ -107,6 +107,7 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 ## Tools
 
 - [`alexandrevilain/temporal-operator`](https://github.com/alexandrevilain/temporal-operator) - Kubernetes operator to deploy and manage Temporal Clusters.
+- [`rross/temporal-cloud-run`](https://github.com/rross/temporal-cloud-run) - Pulumi scripts for deploying Workers to Google Cloud Run
 
 ## Frameworks
 

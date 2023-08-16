@@ -125,6 +125,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 ## Courses
 
 - [Temporal 101](https://learn.temporal.io/courses/temporal_101)
+- [Temporal 102](https://learn.temporal.io/courses/temporal_102)
 
 ## Videos
 

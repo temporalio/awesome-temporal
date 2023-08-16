@@ -107,7 +107,7 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 ## Tools
 
 - [`alexandrevilain/temporal-operator`](https://github.com/alexandrevilain/temporal-operator) - Kubernetes operator to deploy and manage Temporal Clusters.
-- [`rross/temporal-cloud-run`](https://github.com/rross/temporal-cloud-run) - Pulumi scripts for deploying Workers to Google Cloud Run
+- [`rross/temporal-cloud-run`](https://github.com/rross/temporal-cloud-run) - Pulumi scripts for creating and configuring a Google Cloud Project and using Cloud Build to deploy a Temporal worker and the Open Telemetry Connector in Cloud Run
 - [`northpowered/temporal-rest-executor`](https://github.com/northpowered/temporal-rest-executor) - Simple REST server (with Swagger UI) to execute any activity/workflow in Temporal namespace. Useful for development and I&T.
 
 ## Frameworks

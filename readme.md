@@ -239,6 +239,8 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 ### Blog posts
 
 - [Building Reliable Distributed Systems in Node](https://temporal.io/blog/building-reliable-distributed-systems-in-node)
+- [How Durable Execution Works](https://temporal.io/blog/building-reliable-distributed-systems-in-node-js-part-2)
+- [Temporal for VS Code](https://temporal.io/blog/temporal-for-vs-code)
 - [How to Use Node.js Temporal Workflows to Batch Process Operations](https://www.bitovi.com/blog/how-to-use-node.js-temporal-workflows-for-batch-processing)
 - [Using Temporal as a Node.js Task Queue](https://temporal.io/blog/using-temporal-as-a-node-task-queue)
 - [Caching API Requests with Long-Lived Workflows](https://temporal.io/blog/caching-api-requests-with-long-lived-workflows)

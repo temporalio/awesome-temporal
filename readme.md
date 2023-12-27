@@ -359,6 +359,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 
 ## Built with Temporal
 
+- [Cron Atlas](https://github.com/pmbanugo/cron-atlas) - Hit an HTTP endpoint on a schedule
 - [PeerDB data synchronization](https://blog.peerdb.io/using-temporal-to-scale-data-synchronization-at-peerdb)
 
 ## Credits

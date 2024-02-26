@@ -198,6 +198,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 - [`zboralski/codecserver`](https://github.com/zboralski/codecserver) - Data Converter and Codec Server that uses Transit Secrets Engine from HashiCorp Vault.
 - [`saga420/temporal-encryption-converter`](https://github.com/saga420/temporal-encryption-converter) - The Temporal Encryption Converter is a Go package that provides secure communication and context propagation for the Temporal workflow engine, employing AES256_GCM_PBKDF2_Curve25519 and XChaCha20_Poly1305_PBKDF2_Curve25519 encryption algorithms and ZLib compression.
 - [`hatchet-dev/hatchet-workflows`](https://github.com/hatchet-dev/hatchet-workflows) - YAML DSL workflows.
+- [`vikstrous/tstemporal`](https://github.com/vikstrous/tstemporal) - Opinionated and type-safe wrappers for the Go SDK.
 
 ### Tutorials
 

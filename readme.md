@@ -309,7 +309,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 
 ### Libraries
 
-- [InfinityFlow.Aspire.Temporal](https://github.com/InfinityFlowApp/aspire-temporal) - A [.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire) package to work with `temporal` and start a dev-server.
+- [InfinityFlow.Aspire.Temporal](https://github.com/InfinityFlowApp/aspire-temporal) - A [.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire) package to work with `temporal` and start a dev server.
 
 ### Tutorials
 

@@ -363,6 +363,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 ## Built with Temporal
 
 - [Automating Temporal: A Full View of the Netflix Temporal Platform](https://community.temporal.io/t/automating-temporal-a-full-view-of-the-netflix-temporal-platform/13624) by @robzienert
+- [Building a better Mouse Trap – web crawling with Temporal](https://javapro.io/2024/10/03/building-a-better-mouse-trap-web-crawling-with-temporal/) by @spoole167
 - [Cron Atlas](https://github.com/pmbanugo/cron-atlas) - Hit an HTTP endpoint on a schedule
 - [PeerDB data synchronization](https://blog.peerdb.io/using-temporal-to-scale-data-synchronization-at-peerdb)
 

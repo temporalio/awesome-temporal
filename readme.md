@@ -311,6 +311,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 ### Libraries
 
 - [InfinityFlow.Aspire.Temporal](https://github.com/InfinityFlowApp/aspire-temporal) - A [.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire) package to work with `temporal` and start a dev server.
+- [Temporalio.Graphs](https://github.com/oleg-shilo/Temporalio.Graphs) - A NuGet package that can be used to generate a complete WF graph (DAG visualization) by running the WF in the mocked-run mode either during the build or at runtime. 
 
 ### Tutorials
 

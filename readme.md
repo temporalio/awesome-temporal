@@ -293,6 +293,8 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 
 ### Libraries
 
+- [Batch Orchestra](https://github.com/drewhoskins/batch-orchestra) - An easy-to-adopt library for scalable, reliable batch processing.  It features pagination, parallelism, and extended retries.
+
 ### Tutorials
 
 ### Blog posts

@@ -296,8 +296,8 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 - [`temporalio/samples-python`](https://github.com/temporalio/samples-python)
 
 ### Libraries
-
 - [Batch Orchestra](https://github.com/drewhoskins/batch-orchestra) - An easy-to-adopt library for scalable, reliable batch processing.  It features pagination, parallelism, and extended retries.
+- [`northpowered/temporal-boost`](https://github.com/northpowered/temporal-boost) - SDK-based framework for more comfortable development with Temporal. FastAPI-style workers, autogenerating documentation, logging and tracing and other.
 
 ### Tutorials
 

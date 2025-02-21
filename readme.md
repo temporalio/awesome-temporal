@@ -122,10 +122,14 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 - [`temporalio/temporal-pendulum`](https://github.com/temporalio/temporal-pendulum) - Switch between equivalent Workflows written in Go, Java, TS, and PHP.
 - [`temporalio/temporal-polyglot`](https://github.com/temporalio/temporal-polyglot) - Workflows in one lang signaling Workflows or starting Activities written in other langs.
 
-## Courses
+## Training Courses
 
-- [Temporal 101](https://learn.temporal.io/courses/temporal_101)
-- [Temporal 102](https://learn.temporal.io/courses/temporal_102)
+- [Temporal 101: Introducing the Temporal Platform](https://learn.temporal.io/courses/temporal_101/)
+- [Temporal 102: Exploring Durable Execution](https://learn.temporal.io/courses/temporal_102/)
+- [Crafting an Error Handling Strategy](https://learn.temporal.io/courses/errstrat/)
+- [Versioning Workflows](https://learn.temporal.io/courses/versioning/)
+- [Interacting with Workflows](https://learn.temporal.io/courses/interacting_with_workflows/)
+- [Introduction to Temporal Cloud](https://learn.temporal.io/courses/intro_to_temporal_cloud/)
 
 ## Videos
 

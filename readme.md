@@ -112,7 +112,6 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 
 ## Frameworks
 
-- [Airplane](https://www.airplane.dev/) - Build internal UIs and workflows with their [workflow runtime](https://docs.airplane.dev/tasks/runtimes).
 - [iWF](https://github.com/indeedeng/iwf) - DSL workflow framework built on Temporal.
 
 ## Samples

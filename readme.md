@@ -10,66 +10,64 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
 
-- [Awesome Temporal ](#awesome-temporal-)
-  - [Contents](#contents)
-  - [Related awesome lists](#related-awesome-lists)
-  - [Communities](#communities)
-  - [Libraries](#libraries)
-  - [Tools](#tools)
-  - [Frameworks](#frameworks)
-  - [Samples](#samples)
-  - [Courses](#courses)
-  - [Videos](#videos)
-    - [Why Temporal](#why-temporal)
-    - [Using Temporal](#using-temporal)
-  - [Podcasts](#podcasts)
-  - [Blog posts](#blog-posts)
-    - [Why Temporal](#why-temporal-1)
-    - [Using Temporal](#using-temporal-1)
-  - [Go](#go)
-    - [Samples](#samples-1)
-    - [Libraries](#libraries-1)
-    - [Tutorials](#tutorials)
-    - [Blog posts](#blog-posts-1)
-    - [Videos](#videos-1)
-  - [TypeScript](#typescript)
-    - [Samples](#samples-2)
-    - [Libraries](#libraries-2)
-    - [Tutorials](#tutorials-1)
-    - [Blog posts](#blog-posts-2)
-    - [Videos](#videos-2)
-  - [Java](#java)
-    - [Samples](#samples-3)
-    - [Libraries](#libraries-3)
-    - [Tutorials](#tutorials-2)
-    - [Blog posts](#blog-posts-3)
-    - [Videos](#videos-3)
-  - [Python](#python)
-    - [Samples](#samples-4)
-    - [Libraries](#libraries-4)
-    - [Tutorials](#tutorials-3)
-    - [Blog posts](#blog-posts-4)
-    - [Videos](#videos-4)
-  - [.NET](#net)
-    - [Samples](#samples-5)
-    - [Libraries](#libraries-5)
-    - [Tutorials](#tutorials-4)
-    - [Blog posts](#blog-posts-5)
-    - [Videos](#videos-5)
-  - [PHP](#php)
-    - [Samples](#samples-6)
-    - [Libraries](#libraries-6)
-    - [Tutorials](#tutorials-5)
-    - [Blog posts](#blog-posts-6)
-    - [Videos](#videos-6)
-  - [Ruby](#ruby)
-    - [Samples](#samples-7)
-    - [Libraries](#libraries-7)
-    - [Tutorials](#tutorials-6)
-    - [Blog posts](#blog-posts-7)
-  - [Clojure](#clojure)
-  - [Built with Temporal](#built-with-temporal)
-  - [Credits](#credits)
+- [Related awesome lists](#related-awesome-lists)
+- [Communities](#communities)
+- [Libraries](#libraries)
+- [Tools](#tools)
+- [Frameworks](#frameworks)
+- [Samples](#samples)
+- [Training Courses](#training-courses)
+- [Videos](#videos)
+  - [Why Temporal](#why-temporal)
+  - [Using Temporal](#using-temporal)
+- [Podcasts](#podcasts)
+- [Blog posts](#blog-posts)
+  - [Why Temporal](#why-temporal-1)
+  - [Using Temporal](#using-temporal-1)
+- [Go](#go)
+  - [Samples](#samples-1)
+  - [Libraries](#libraries-1)
+  - [Tutorials](#tutorials)
+  - [Blog posts](#blog-posts-1)
+  - [Videos](#videos-1)
+- [TypeScript](#typescript)
+  - [Samples](#samples-2)
+  - [Libraries](#libraries-2)
+  - [Tutorials](#tutorials-1)
+  - [Blog posts](#blog-posts-2)
+  - [Videos](#videos-2)
+- [Java](#java)
+  - [Samples](#samples-3)
+  - [Libraries](#libraries-3)
+  - [Tutorials](#tutorials-2)
+  - [Blog posts](#blog-posts-3)
+  - [Videos](#videos-3)
+- [Python](#python)
+  - [Samples](#samples-4)
+  - [Libraries](#libraries-4)
+  - [Tutorials](#tutorials-3)
+  - [Blog posts](#blog-posts-4)
+  - [Videos](#videos-4)
+- [.NET](#net)
+  - [Samples](#samples-5)
+  - [Libraries](#libraries-5)
+  - [Tutorials](#tutorials-4)
+  - [Blog posts](#blog-posts-5)
+  - [Videos](#videos-5)
+- [PHP](#php)
+  - [Samples](#samples-6)
+  - [Libraries](#libraries-6)
+  - [Tutorials](#tutorials-5)
+  - [Blog posts](#blog-posts-6)
+  - [Videos](#videos-6)
+- [Ruby](#ruby)
+  - [Samples](#samples-7)
+  - [Libraries](#libraries-7)
+  - [Tutorials](#tutorials-6)
+  - [Blog posts](#blog-posts-7)
+- [Clojure](#clojure)
+- [Built with Temporal](#built-with-temporal)
+- [Credits](#credits)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -114,7 +112,6 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 
 ## Frameworks
 
-- [Airplane](https://www.airplane.dev/) - Build internal UIs and workflows with their [workflow runtime](https://docs.airplane.dev/tasks/runtimes).
 - [iWF](https://github.com/indeedeng/iwf) - DSL workflow framework built on Temporal.
 
 ## Samples
@@ -124,10 +121,14 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 - [`temporalio/temporal-pendulum`](https://github.com/temporalio/temporal-pendulum) - Switch between equivalent Workflows written in Go, Java, TS, and PHP.
 - [`temporalio/temporal-polyglot`](https://github.com/temporalio/temporal-polyglot) - Workflows in one lang signaling Workflows or starting Activities written in other langs.
 
-## Courses
+## Training Courses
 
-- [Temporal 101](https://learn.temporal.io/courses/temporal_101)
-- [Temporal 102](https://learn.temporal.io/courses/temporal_102)
+- [Temporal 101: Introducing the Temporal Platform](https://learn.temporal.io/courses/temporal_101/)
+- [Temporal 102: Exploring Durable Execution](https://learn.temporal.io/courses/temporal_102/)
+- [Crafting an Error Handling Strategy](https://learn.temporal.io/courses/errstrat/)
+- [Versioning Workflows](https://learn.temporal.io/courses/versioning/)
+- [Interacting with Workflows](https://learn.temporal.io/courses/interacting_with_workflows/)
+- [Introduction to Temporal Cloud](https://learn.temporal.io/courses/intro_to_temporal_cloud/)
 
 ## Videos
 
@@ -201,6 +202,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 - [`saga420/temporal-encryption-converter`](https://github.com/saga420/temporal-encryption-converter) - The Temporal Encryption Converter is a Go package that provides secure communication and context propagation for the Temporal workflow engine, employing AES256_GCM_PBKDF2_Curve25519 and XChaCha20_Poly1305_PBKDF2_Curve25519 encryption algorithms and ZLib compression.
 - [`hatchet-dev/hatchet-workflows`](https://github.com/hatchet-dev/hatchet-workflows) - YAML DSL workflows.
 - [`vikstrous/tempts`](https://github.com/vikstrous/tempts) - Opinionated and type-safe wrappers for the Go SDK.
+- [`cito-oss/tempo`](https://github.com/cito-oss/tempo) - Run distributed Go-like tests using Temporal.
 
 ### Tutorials
 
@@ -294,7 +296,9 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 - [`temporalio/samples-python`](https://github.com/temporalio/samples-python)
 
 ### Libraries
+- [Batch Orchestra](https://github.com/drewhoskins/batch-orchestra) - An easy-to-adopt library for scalable, reliable batch processing.  It features pagination, parallelism, and extended retries.
 - [`northpowered/temporal-boost`](https://github.com/northpowered/temporal-boost) - SDK-based framework for more comfortable development with Temporal. FastAPI-style workers, autogenerating documentation, logging and tracing and other.
+
 ### Tutorials
 
 ### Blog posts
@@ -313,6 +317,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 ### Libraries
 
 - [InfinityFlow.Aspire.Temporal](https://github.com/InfinityFlowApp/aspire-temporal) - A [.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire) package to work with `temporal` and start a dev server.
+- [Temporalio.Graphs](https://github.com/oleg-shilo/Temporalio.Graphs) - A NuGet package that can be used to generate a complete WF graph (DAG visualization) by running the WF in the mocked-run mode either during the build or at runtime. 
 
 ### Tutorials
 
@@ -364,6 +369,8 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 
 ## Built with Temporal
 
+- [Automating Temporal: A Full View of the Netflix Temporal Platform](https://community.temporal.io/t/automating-temporal-a-full-view-of-the-netflix-temporal-platform/13624) by @robzienert
+- [Building a better Mouse Trap – web crawling with Temporal](https://javapro.io/2024/10/03/building-a-better-mouse-trap-web-crawling-with-temporal/) by @spoole167
 - [Cron Atlas](https://github.com/pmbanugo/cron-atlas) - Hit an HTTP endpoint on a schedule
 - [PeerDB data synchronization](https://blog.peerdb.io/using-temporal-to-scale-data-synchronization-at-peerdb)
 

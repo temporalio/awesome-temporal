@@ -14,6 +14,7 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 - [Communities](#communities)
 - [Libraries](#libraries)
 - [Tools](#tools)
+  - [Terraform Providers](#terraform-providers)
 - [Frameworks](#frameworks)
 - [Samples](#samples)
 - [Training Courses](#training-courses)

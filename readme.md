@@ -67,6 +67,7 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
   - [Tutorials](#tutorials-6)
   - [Blog posts](#blog-posts-7)
 - [Clojure](#clojure)
+- [Haskell](#haskell)
 - [Built with Temporal](#built-with-temporal)
 - [Credits](#credits)
 
@@ -371,6 +372,11 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 ## Clojure
 
 - [Clojure SDK](https://github.com/manetu/temporal-clojure-sdk)
+
+## Haskell
+
+- [Haskell SDK](https://github.com/MercuryTechnologies/hs-temporal-sdk)
+- [Haskell SDK Cookbook](https://github.com/MercuryTechnologies/hs-temporal-cookbook)
 
 ## Built with Temporal
 

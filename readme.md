@@ -384,10 +384,12 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 - [Building a better Mouse Trap – web crawling with Temporal](https://javapro.io/2024/10/03/building-a-better-mouse-trap-web-crawling-with-temporal/) by @spoole167
 - [Cron Atlas](https://github.com/pmbanugo/cron-atlas) - Hit an HTTP endpoint on a schedule
 - [PeerDB data synchronization](https://blog.peerdb.io/using-temporal-to-scale-data-synchronization-at-peerdb)
+- [Julep: Modern, Scalable, Resilient AI workflows](https://github.com/julep-ai/julep)
+- [Open Responses: Self-hosted alternative to OpenAI's Responses API that works with any model](https://github.com/julep-ai/open-responses)
 
 ## Credits
 
-We welcome contributions! See [`contributing.md`](contributing.md).
+We welcome contributions! See [`contributing.md`](contributing.md). 
 
 🙏 Thank you to: 
 

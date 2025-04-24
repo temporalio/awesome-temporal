@@ -379,7 +379,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 - [Cron Atlas](https://github.com/pmbanugo/cron-atlas) - Hit an HTTP endpoint on a schedule
 - [PeerDB data synchronization](https://blog.peerdb.io/using-temporal-to-scale-data-synchronization-at-peerdb)
 - [Julep: Modern, Scalable, Resilient AI workflows](https://github.com/julep-ai/julep)
-- [Open Responses: Self-hosted alternative to OpenAI's Responses API that works with any model](https://github.com/julep-ai/open-responses) [![GitHub Repo stars](https://img.shields.io/github/stars/julep-ai/open-responses?style=social&link=https%3A%2F%2Fgithub.com%2Fjulep-ai%2Fopen-responses&link=https%3A%2F%2Fgithub.com%2Fjulep-ai%2Fopen-responses)](https://github.com/julep-ai/open-responses)
+- [Open Responses: Self-hosted alternative to OpenAI's Responses API that works with any model](https://github.com/julep-ai/open-responses)
 
 ## Credits
 

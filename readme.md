@@ -67,6 +67,8 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
   - [Tutorials](#tutorials-6)
   - [Blog posts](#blog-posts-7)
 - [Clojure](#clojure)
+- [Elixir](#elixir)
+- [Erlang](#erlang)
 - [Haskell](#haskell)
 - [Built with Temporal](#built-with-temporal)
 - [Credits](#credits)
@@ -113,6 +115,7 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 - [`northpowered/temporal-rest-executor`](https://github.com/northpowered/temporal-rest-executor) - Simple REST server (with Swagger UI) to execute any activity/workflow in Temporal namespace. Useful for development and I&T.
 
 ### Terraform Providers
+
 - [`temporalio/terraform-provider-temporalcloud`](https://github.com/temporalio/terraform-provider-temporalcloud) - Terraform Provider for Temporal Cloud
 - [`platacard/terraform-provider-temporal`](https://github.com/platacard/terraform-provider-temporal) - Terraform provider to manage Temporal Server resources.
 
@@ -302,6 +305,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 - [`temporalio/samples-python`](https://github.com/temporalio/samples-python)
 
 ### Libraries
+
 - [Batch Orchestra](https://github.com/drewhoskins/batch-orchestra) - An easy-to-adopt library for scalable, reliable batch processing.  It features pagination, parallelism, and extended retries.
 - [`northpowered/temporal-boost`](https://github.com/northpowered/temporal-boost) - SDK-based framework for more comfortable development with Temporal. FastAPI-style workers, autogenerating documentation, logging and tracing and other.
 
@@ -323,7 +327,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 ### Libraries
 
 - [InfinityFlow.Aspire.Temporal](https://github.com/InfinityFlowApp/aspire-temporal) - A [.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire) package to work with `temporal` and start a dev server.
-- [Temporalio.Graphs](https://github.com/oleg-shilo/Temporalio.Graphs) - A NuGet package that can be used to generate a complete WF graph (DAG visualization) by running the WF in the mocked-run mode either during the build or at runtime. 
+- [Temporalio.Graphs](https://github.com/oleg-shilo/Temporalio.Graphs) - A NuGet package that can be used to generate a complete WF graph (DAG visualization) by running the WF in the mocked-run mode either during the build or at runtime.
 
 ### Tutorials
 
@@ -373,6 +377,22 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 
 - [Clojure SDK](https://github.com/manetu/temporal-clojure-sdk)
 
+## Elixir
+
+- [SDK GitHub repository](https://github.com/andrzej-mag/temporal_sdk)
+- [SDK hex.pm package](https://hex.pm/packages/temporal_sdk)
+- [SDK hexdocs documentation](https://hexdocs.pm/temporal_sdk)
+- [Samples GitHub repository](https://github.com/andrzej-mag/temporal_sdk_samples)
+- [Samples hexdocs documentation](https://hexdocs.pm/temporal_sdk_samples)
+
+## Erlang
+
+- [SDK GitHub repository](https://github.com/andrzej-mag/temporal_sdk)
+- [SDK hex.pm package](https://hex.pm/packages/temporal_sdk)
+- [SDK hexdocs documentation](https://hexdocs.pm/temporal_sdk)
+- [Samples GitHub repository](https://github.com/andrzej-mag/temporal_sdk_samples)
+- [Samples hexdocs documentation](https://hexdocs.pm/temporal_sdk_samples)
+
 ## Haskell
 
 - [Haskell SDK](https://github.com/MercuryTechnologies/hs-temporal-sdk)
@@ -389,9 +409,9 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 
 ## Credits
 
-We welcome contributions! See [`contributing.md`](contributing.md). 
+We welcome contributions! See [`contributing.md`](contributing.md).
 
-🙏 Thank you to: 
+🙏 Thank you to:
 
 - [All those who have contributed](https://github.com/temporalio/awesome-temporal/graphs/contributors)
 - [`firdaus`](https://github.com/firdaus) for [`firdaus/awesome-cadence-temporal-workflow`](https://github.com/firdaus/awesome-cadence-temporal-workflow)

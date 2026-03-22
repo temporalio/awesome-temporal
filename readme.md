@@ -303,6 +303,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 ### Samples
 
 - [`temporalio/samples-python`](https://github.com/temporalio/samples-python)
+- [`ai-video-generation-pipeline`](https://github.com/aybruhm/ai-video-generation-poc-with-temporal) - A proof-of-concept for orchestrating an AI video generation pipeline (AI Provider → S3 → token deduction → DB) using Temporal workflows and activities with FastAPI.
 
 ### Libraries
 

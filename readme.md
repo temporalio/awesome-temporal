@@ -122,6 +122,7 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 ## Frameworks
 
 - [iWF](https://github.com/indeedeng/iwf) - DSL workflow framework built on Temporal.
+- [Output](https://github.com/growthxai/output) - AI Agents & Workflows with versioned prompts, evals, tracing, and credentials in one TypeScript framework built on Temporal.
 
 ## Samples
 

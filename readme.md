@@ -121,6 +121,7 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 
 ## Frameworks
 
+- [awaithumans](https://github.com/awaithumans/awaithumans) - HITL primitive for AI agents. One function call (`await_human` / `awaitHuman`) suspends the workflow until a real person reviews via Slack, email, or a built-in dashboard, then resumes with the typed response. The Temporal adapter uses signals to park the workflow while it waits — durable across worker restarts. Python + TypeScript SDKs, Apache 2.0.
 - [iWF](https://github.com/indeedeng/iwf) - DSL workflow framework built on Temporal.
 - [Output](https://github.com/growthxai/output) - AI Agents & Workflows with versioned prompts, evals, tracing, and credentials in one TypeScript framework built on Temporal.
 

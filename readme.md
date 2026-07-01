@@ -410,6 +410,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 - [PeerDB data synchronization](https://blog.peerdb.io/using-temporal-to-scale-data-synchronization-at-peerdb)
 - [Julep: Modern, Scalable, Resilient AI workflows](https://github.com/julep-ai/julep)
 - [Open Responses: Self-hosted alternative to OpenAI's Responses API that works with any model](https://github.com/julep-ai/open-responses)
+- [Workflow Builder](https://github.com/synergycodes/workflowbuilder) - Embeddable, data-driven visual workflow editor SDK for React (Apache 2.0). The execution engine is swappable by design and proven with Temporal, giving you a working end-to-end reference for durable AI orchestration.
 
 ## Credits
 

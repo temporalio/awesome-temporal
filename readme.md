@@ -276,7 +276,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 ## Java
 
 - [Java SDK](https://github.com/temporalio/sdk-java)
-- [Java SDK](https://t.mp/java)
+- [Java SDK docs](https://t.mp/java)
 - [Java SDK API reference](https://t.mp/java-api)
 
 ### Samples

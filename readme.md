@@ -371,8 +371,11 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 ## Ruby
 
 - [Ruby SDK](https://github.com/temporalio/sdk-ruby)
+- [Ruby SDK API reference](https://ruby.temporal.io)
 
 ### Samples
+
+- [`temporalio/samples-ruby`](https://github.com/temporalio/samples-ruby)
 
 ### Libraries
 

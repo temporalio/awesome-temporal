@@ -328,6 +328,8 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 
 ### Samples
 
+- [`temporalio/samples-dotnet`](https://github.com/temporalio/samples-dotnet)
+
 ### Libraries
 
 - [InfinityFlow.Aspire.Temporal](https://github.com/InfinityFlowApp/aspire-temporal) - A [.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire) package to work with `temporal` and start a dev server.

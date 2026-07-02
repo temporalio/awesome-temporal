@@ -345,6 +345,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 
 - [PHP SDK](https://github.com/temporalio/sdk-php)
 - [PHP SDK docs](https://t.mp/php)
+- [PHP SDK API reference](https://php.temporal.io)
 
 ### Samples
 

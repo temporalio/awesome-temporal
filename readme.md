@@ -66,6 +66,7 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
   - [Libraries](#libraries-7)
   - [Tutorials](#tutorials-6)
   - [Blog posts](#blog-posts-7)
+- [Rust](#rust)
 - [Clojure](#clojure)
 - [Elixir](#elixir)
 - [Erlang](#erlang)
@@ -378,6 +379,12 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 ### Tutorials
 
 ### Blog posts
+
+## Rust
+
+- [Rust SDK](https://github.com/temporalio/sdk-rust) - Currently in Public Preview.
+- [`temporalio-sdk` crate](https://crates.io/crates/temporalio-sdk)
+- [Rust SDK API reference](https://docs.rs/temporalio-sdk)
 
 ## Clojure
 

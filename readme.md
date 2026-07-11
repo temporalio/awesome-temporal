@@ -115,6 +115,7 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 - [`rross/temporal-cloud-run`](https://github.com/rross/temporal-cloud-run) - Pulumi scripts for creating and configuring a Google Cloud Project and using Cloud Build to deploy a Temporal worker and the Open Telemetry Connector in Cloud Run
 - [`northpowered/temporal-rest-executor`](https://github.com/northpowered/temporal-rest-executor) - Simple REST server (with Swagger UI) to execute any activity/workflow in Temporal namespace. Useful for development and I&T.
 - [`tempo`](https://miketoscano.com/tempo/) - Tempo is an app available for iOS, Android, and Linux for monitoring, searching, debugging, and managing Temporal Workflows, schedules, and batch operations.
+- [`Krishnachaitanyakc/temporal-postgres-visibility`](https://github.com/Krishnachaitanyakc/temporal-postgres-visibility) - Reduces PostgreSQL Visibility index bloat by converting unused Search Attribute indexes on `executions_visibility` to partial indexes, with a REINDEX and autovacuum runbook.
 
 ### Terraform Providers
 

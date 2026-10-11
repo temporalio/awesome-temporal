@@ -116,6 +116,7 @@ Temporal is a [durable execution system](https://youtu.be/W0Ygep6iCJY?t=609). It
 - [`northpowered/temporal-rest-executor`](https://github.com/northpowered/temporal-rest-executor) - Simple REST server (with Swagger UI) to execute any activity/workflow in Temporal namespace. Useful for development and I&T.
 - [`tempo`](https://miketoscano.com/tempo/) - Tempo is an app available for iOS, Android, and Linux for monitoring, searching, debugging, and managing Temporal Workflows, schedules, and batch operations.
 - [`Krishnachaitanyakc/temporal-postgres-visibility`](https://github.com/Krishnachaitanyakc/temporal-postgres-visibility) - Reduces PostgreSQL Visibility index bloat by converting unused Search Attribute indexes on `executions_visibility` to partial indexes, with a REINDEX and autovacuum runbook.
+- [`metalbear-co/mirrord`](https://github.com/metalbear-co/mirrord) - Run a Temporal worker on your machine against a shared Kubernetes cluster. The mirrord Operator (paid) splits a task queue with a gRPC proxy and virtual task queues, so each developer's worker gets only the tasks that match its filter on Temporal headers or search attributes.
 
 ### Terraform Providers
 
